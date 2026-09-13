@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Rajesh Kumar
+<div align="center">
+
+<img src="./github-banner.png" alt="Rajesh Kumar - Aspiring Agentic Full Stack Developer" width="100%">
+
+</div>
 
 ### 🚀 Aspiring Agentic Full Stack Developer
 
