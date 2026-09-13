@@ -58,6 +58,14 @@ Currently, I am learning **Full Stack Development (MERN)** and exploring **AI Co
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawarra&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawarra&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
 
 ## 🚀 Current Learning
 
